@@ -45,42 +45,67 @@ fun VideoPlayer(
         onBack()
     }
 
-    // Initialize ExoPlayer with Maximum Quality parameter configuration
+    // Initialize ExoPlayer with Maximum Quality parameter configuration and fallback support
     val exoPlayer = remember {
-        val trackSelector = DefaultTrackSelector(context).apply {
-            // Force Highest bitrate track selection, aiming for maximum quality (e.g. 1080P)
-            parameters = buildUponParameters()
-                .setForceHighestSupportedBitrate(true)
-                .build()
-        }
-        ExoPlayer.Builder(context)
-            .setTrackSelector(trackSelector)
-            .build().apply {
-                val mediaItem = MediaItem.fromUri(videoUrl)
-                setMediaItem(mediaItem)
-                prepare()
-                playWhenReady = true
+        try {
+            val trackSelector = DefaultTrackSelector(context).apply {
+                // Force Highest bitrate track selection, aiming for maximum quality (e.g. 1080P)
+                parameters = buildUponParameters()
+                    .setForceHighestSupportedBitrate(true)
+                    .build()
             }
+            ExoPlayer.Builder(context)
+                .setTrackSelector(trackSelector)
+                .build().apply {
+                    val mediaItem = MediaItem.Builder()
+                        .setUri(videoUrl)
+                        .apply {
+                            if (videoUrl.contains(".m3u8", ignoreCase = true) || videoUrl.contains("m3u8", ignoreCase = true)) {
+                                setMimeType(androidx.media3.common.MimeTypes.APPLICATION_M3U8)
+                            } else if (videoUrl.contains(".mpd", ignoreCase = true) || videoUrl.contains("mpd", ignoreCase = true)) {
+                                setMimeType(androidx.media3.common.MimeTypes.APPLICATION_MPD)
+                            }
+                        }
+                        .build()
+                    setMediaItem(mediaItem)
+                    prepare()
+                    playWhenReady = true
+                }
+        } catch (e: Exception) {
+            // Safe fallback initialization
+            ExoPlayer.Builder(context)
+                .build().apply {
+                    val mediaItem = MediaItem.Builder()
+                        .setUri(videoUrl)
+                        .apply {
+                            if (videoUrl.contains(".m3u8", ignoreCase = true) || videoUrl.contains("m3u8", ignoreCase = true)) {
+                                setMimeType(androidx.media3.common.MimeTypes.APPLICATION_M3U8)
+                            }
+                        }
+                        .build()
+                    setMediaItem(mediaItem)
+                    prepare()
+                    playWhenReady = true
+                }
+        }
     }
 
     // Video buffering and state handling
     var isPlaying by remember { mutableStateOf(false) }
     var isBuffering by remember { mutableStateOf(true) }
     var playbackError by remember { mutableStateOf<String?>(null) }
+    var hasEnded by remember { mutableStateOf(false) }
 
     DisposableEffect(exoPlayer) {
         val listener = object : Player.Listener {
             override fun onPlaybackStateChanged(state: Int) {
                 isBuffering = state == Player.STATE_BUFFERING
                 isPlaying = state == Player.STATE_READY && exoPlayer.playWhenReady
-                
-                if (state == Player.STATE_ENDED) {
-                    onBack()
-                }
+                hasEnded = state == Player.STATE_ENDED
             }
 
             override fun onPlayerError(error: PlaybackException) {
-                playbackError = "Filmi oxutmaq mümkün olmadı: ${error.message}"
+                playbackError = "Filmi oxutmaq mümkün olmadı: ${error.message} (Zəhmət olmasa interneti və ya stream linkini yoxlayın)"
                 isBuffering = false
             }
         }
@@ -96,8 +121,12 @@ fun VideoPlayer(
         val window = activity?.window
         val originalOrientation = activity?.requestedOrientation
 
-        // Lock to Landscape screen mode for cinematic full-screen view
-        activity?.requestedOrientation = ActivityInfo.SCREEN_ORIENTATION_SENSOR_LANDSCAPE
+        // Lock to Landscape screen mode safely
+        try {
+            activity?.requestedOrientation = ActivityInfo.SCREEN_ORIENTATION_SENSOR_LANDSCAPE
+        } catch (e: Exception) {
+            e.printStackTrace()
+        }
         window?.addFlags(WindowManager.LayoutParams.FLAG_KEEP_SCREEN_ON)
 
         // Enter Full Screen Immersive Mode (hide gesture bar & status bar)
@@ -108,8 +137,12 @@ fun VideoPlayer(
         }
 
         onDispose {
-            // Restore rotation
-            activity?.requestedOrientation = originalOrientation ?: ActivityInfo.SCREEN_ORIENTATION_UNSPECIFIED
+            // Restore rotation safely
+            try {
+                activity?.requestedOrientation = originalOrientation ?: ActivityInfo.SCREEN_ORIENTATION_UNSPECIFIED
+            } catch (e: Exception) {
+                e.printStackTrace()
+            }
             window?.clearFlags(WindowManager.LayoutParams.FLAG_KEEP_SCREEN_ON)
 
             // Exit Immersive Full Screen Mode
