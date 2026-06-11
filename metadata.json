@@ -1,0 +1,6 @@
+{
+  "name": "Dizi Serveri",
+  "description": "ExoPlayer əsaslı, M3U sərverindən olan diziləri çəkən və ən yüksək keyfiyyətdə tam ekran oynadan sadə dizi izləmə tətbiqi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
