@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="Information", AzTV HD
-udp://228.15.15.20:1234
+udp://@228.15.15.20:1234
 #EXTINF:-1 group-title="Culture", Medeniyyet HD
 udp://228.15.15.34:1234
 #EXTINF:-1 group-title="Entertainments", İctimai HD
