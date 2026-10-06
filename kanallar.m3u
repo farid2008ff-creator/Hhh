@@ -2,300 +2,298 @@
 #EXTINF:-1 group-title="Information", AzTV HD
 udp://@228.15.15.20:1234
 #EXTINF:-1 group-title="Culture", Medeniyyet HD
-udp://228.15.15.34:1234
+udp://@228.15.15.34:1234
 #EXTINF:-1 group-title="Entertainments", İctimai HD
-udp://228.15.15.21:1234
+udp://@228.15.15.21:1234
 #EXTINF:-1 group-title="Information", Xezer HD
-udp://228.15.15.22:1234
+udp://@228.15.15.22:1234
 #EXTINF:-1 group-title="Entertainments", ATV HD
-udp://228.15.15.23:1234
+udp://@228.15.15.23:1234
 #EXTINF:-1 group-title="Entertainments", Space HD
-udp://228.15.15.30:1234
+udp://@228.15.15.30:1234
 #EXTINF:-1 group-title="Entertainments", ARB TV HD
-udp://228.15.15.24:1234
+udp://@228.15.15.24:1234
 #EXTINF:-1 group-title="Information", ARB 24 HD
-udp://228.15.15.25:1234
+udp://@228.15.15.25:1234
 #EXTINF:-1 group-title="Children's", ARB Gunesh HD
-udp://228.15.16.63:1234
+udp://@228.15.16.63:1234
 #EXTINF:-1 group-title="Information", Anewz TV
-udp://228.15.15.35:1234
+udp://@228.15.15.35:1234
 #EXTINF:-1 group-title="Entertainments", Kanal S
-udp://228.15.15.32:1234
+udp://@228.15.15.32:1234
 #EXTINF:-1 group-title="Entertainments", Dunya TV
-udp://228.15.15.31:1234
+udp://@228.15.15.31:1234
 #EXTINF:-1 group-title="Information", Real TV
-udp://228.15.15.26:1234
+udp://@228.15.15.26:1234
 #EXTINF:-1 group-title="Entertainments", CBC HD
-udp://228.15.15.29:1234
+udp://@228.15.15.29:1234
 #EXTINF:-1 group-title="Sports", CBC Sport HD
-udp://228.15.15.100:1234
+udp://@228.15.15.100:1234
 #EXTINF:-1 group-title="Sports", İdman TV HD
-udp://228.15.15.99:1234
+udp://@228.15.15.99:1234
 #EXTINF:-1 group-title="Music", MuzTV
-udp://228.15.15.36:1234
+udp://@228.15.15.36:1234
 #EXTINF:-1 group-title="Music", TMB Azerbaycan
-udp://228.15.16.39:1234
+udp://@228.15.16.39:1234
 #EXTINF:-1 group-title="Information", TRT1
-udp://228.15.15.39:1234
+udp://@228.15.15.39:1234
 #EXTINF:-1 group-title="Information", TRT Turk
-udp://228.15.15.53:1234
+udp://@228.15.15.53:1234
 #EXTINF:-1 group-title="Entertainments", TRT2 HD
-udp://228.15.15.40:1234
+udp://@228.15.15.40:1234
 #EXTINF:-1 group-title="Entertainments", TRT Avaz
-udp://228.15.15.54:1234
+udp://@228.15.15.54:1234
 #EXTINF:-1 group-title="Information", TRT HABER
-udp://228.15.15.85:1234
+udp://@228.15.15.85:1234
 #EXTINF:-1 group-title="Sports", TRT Spor
-udp://228.15.15.128:1234
+udp://@228.15.15.128:1234
 #EXTINF:-1 group-title="Children's", TRT Cocuk
-udp://228.15.16.66:1234
+udp://@228.15.16.66:1234
 #EXTINF:-1 group-title="Entertainments", TRT Belgesel HD
-udp://228.15.15.200:1234
+udp://@228.15.15.200:1234
 #EXTINF:-1 group-title="Entertainments", Star TV TR
-udp://228.15.15.44:1234
+udp://@228.15.15.44:1234
 #EXTINF:-1 group-title="Entertainments", Star TV HD
-udp://228.15.15.44:1234
+udp://@228.15.15.44:1234
 #EXTINF:-1 group-title="Entertainments", Show TV HD
-udp://228.15.15.43:1234
+udp://@228.15.15.43:1234
 #EXTINF:-1 group-title="Entertainments", ATV TR
-udp://228.15.15.42:1234
+udp://@228.15.15.42:1234
 #EXTINF:-1 group-title="Entertainments", ATV TR HD
-udp://228.15.15.42:1234
+udp://@228.15.15.42:1234
 #EXTINF:-1 group-title="Entertainments", TV8
-udp://228.15.15.46:1234
+udp://@228.15.15.46:1234
 #EXTINF:-1 group-title="Entertainments", TV8 int
-udp://228.15.15.46:1234
+udp://@228.15.15.46:1234
 #EXTINF:-1 group-title="Entertainments", Kanal D
-udp://228.15.15.41:1234
+udp://@228.15.15.41:1234
 #EXTINF:-1 group-title="Entertainments", Kanal 7 turk
-udp://228.15.15.45:1234
+udp://@228.15.15.45:1234
 #EXTINF:-1 group-title="Information", NTV
-udp://228.15.15.48:1234
+udp://@228.15.15.48:1234
 #EXTINF:-1 group-title="Information", HABERTÜRK
-udp://228.15.15.89:1234
+udp://@228.15.15.89:1234
 #EXTINF:-1 group-title="Information", Haber Global
-udp://228.15.15.88:1234
+udp://@228.15.15.88:1234
 #EXTINF:-1 group-title="Information", Bloomberg TR
-udp://228.15.15.90:1234
+udp://@228.15.15.90:1234
 #EXTINF:-1 group-title="Entertainments", TLC
-udp://228.15.16.10:1234
+udp://@228.15.16.10:1234
 #EXTINF:-1 group-title="Music", TMB
-udp://228.15.16.44:1234
+udp://@228.15.16.44:1234
 #EXTINF:-1 group-title="Entertainments", 360TV Turk
-udp://228.15.15.51:1234
+udp://@228.15.15.51:1234
 #EXTINF:-1 group-title="Music", Dream
-udp://228.15.16.45:1234
+udp://@228.15.16.45:1234
 #EXTINF:-1 group-title="Information", Silk Way HD
-udp://228.15.16.84:1234
+udp://@228.15.16.84:1234
 #EXTINF:-1 group-title="Information", Первый Канал
-udp://228.15.15.58:1234
+udp://@228.15.15.58:1234
 #EXTINF:-1 group-title="Entertainments", РТР Планета
-udp://228.15.15.77:1234
+udp://@228.15.15.77:1234
 #EXTINF:-1 group-title="Information", Россия 1
-udp://228.15.15.60:1234
+udp://@228.15.15.60:1234
 #EXTINF:-1 group-title="Information", Россия 24
-udp://228.15.15.61:1234
+udp://@228.15.15.61:1234
 #EXTINF:-1 group-title="Culture", Россия К
-udp://228.15.15.80:1234
+udp://@228.15.15.80:1234
 #EXTINF:-1 group-title="Entertainments", Мир
-udp://228.15.15.62:1234
+udp://@228.15.15.62:1234
 #EXTINF:-1 group-title="Information", Мир 24
-udp://228.15.15.63:1234
+udp://@228.15.15.63:1234
 #EXTINF:-1 group-title="Entertainments", НТВ
-udp://228.15.15.59:1234
+udp://@228.15.15.59:1234
 #EXTINF:-1 group-title="Entertainments", РЕН ТВ
-udp://228.15.15.69:1234
+udp://@228.15.15.69:1234
 #EXTINF:-1 group-title="Entertainments", ТНТ4
-udp://228.15.15.66:1234
+udp://@228.15.15.66:1234
 #EXTINF:-1 group-title="Entertainments", ТНТ
-udp://228.15.15.65:1234
+udp://@228.15.15.65:1234
 #EXTINF:-1 group-title="Entertainments", СТС
-udp://228.15.15.67:1234
+udp://@228.15.15.67:1234
 #EXTINF:-1 group-title="Entertainments", Пятница
-udp://228.15.15.70:1234
+udp://@228.15.15.70:1234
 #EXTINF:-1 group-title="Entertainments", Че
-udp://228.15.15.71:1234
+udp://@228.15.15.71:1234
 #EXTINF:-1 group-title="Entertainments", Пятый Канал
-udp://228.15.15.75:1234
+udp://@228.15.15.75:1234
 #EXTINF:-1 group-title="Entertainments", Телекафе
-udp://228.15.16.34:1234
+udp://@228.15.16.34:1234
 #EXTINF:-1 group-title="Entertainments", Кухня ТВ
-udp://228.15.16.32:1234
+udp://@228.15.16.32:1234
 #EXTINF:-1 group-title="Entertainments", Усадьба
-udp://228.15.15.205:1234
+udp://@228.15.15.205:1234
 #EXTINF:-1 group-title="Entertainments", ТВ центр
-udp://228.15.15.79:1234
+udp://@228.15.15.79:1234
 #EXTINF:-1 group-title="Entertainments", Ностальгия
-udp://228.15.15.81:1234
+udp://@228.15.15.81:1234
 #EXTINF:-1 group-title="Information", Продвижение
-udp://228.15.16.102:1234
+udp://@228.15.16.102:1234
 #EXTINF:-1 group-title="Entertainments", Охота и Рыбалка
-udp://228.15.16.21:1234
+udp://@228.15.16.21:1234
 #EXTINF:-1 group-title="Entertainments", Авто Плюс
-udp://228.15.16.30:1234
+udp://@228.15.16.30:1234
 #EXTINF:-1 group-title="Entertainments", Авто 24
-udp://228.15.16.31:1234
+udp://@228.15.16.31:1234
 #EXTINF:-1 group-title="Cinema", HITS Movie
-udp://228.15.17.51:1234
+udp://@228.15.17.51:1234
 #EXTINF:-1 group-title="Cinema", HITS Show
-udp://228.15.17.53:1234
+udp://@228.15.17.53:1234
 #EXTINF:-1 group-title="Children's", HITS Cartoon
-udp://228.15.17.52:1234
+udp://@228.15.17.52:1234
 #EXTINF:-1 group-title="Cinema", viju+Megahit HD
-udp://228.15.15.142:1234
+udp://@228.15.15.142:1234
 #EXTINF:-1 group-title="Cinema", viju+Premiere HD
-udp://228.15.15.143:1234
+udp://@228.15.15.143:1234
 #EXTINF:-1 group-title="Cinema", viju+Comedy HD
-udp://228.15.16.136:1234
+udp://@228.15.16.136:1234
 #EXTINF:-1 group-title="Cinema", viju+TV1000
-udp://228.15.15.144:1234
+udp://@228.15.15.144:1234
 #EXTINF:-1 group-title="Cinema", viju+TV 1000 Action
-udp://228.15.15.145:1234
+udp://@228.15.15.145:1234
 #EXTINF:-1 group-title="Cinema", viju+TV 1000 Русское Кино
-udp://228.15.15.146:1234
+udp://@228.15.15.146:1234
 #EXTINF:-1 group-title="Cinema", Кинохит
-udp://228.15.15.148:1234
+udp://@228.15.15.148:1234
 #EXTINF:-1 group-title="Cinema", Киномикс
-udp://228.15.15.149:1234
+udp://@228.15.15.149:1234
 #EXTINF:-1 group-title="Cinema", Киносемья
-udp://228.15.15.150:1234
+udp://@228.15.15.150:1234
 #EXTINF:-1 group-title="Cinema", Кинокомедия
-udp://228.15.15.152:1234
+udp://@228.15.15.152:1234
 #EXTINF:-1 group-title="Cinema", Киносвидание
-udp://228.15.15.151:1234
+udp://@228.15.15.151:1234
 #EXTINF:-1 group-title="Cinema", Кинопремьера HD
-udp://228.15.15.147:1234
+udp://@228.15.15.147:1234
 #EXTINF:-1 group-title="Cinema", Наше новое кино
-udp://228.15.15.175:1234
+udp://@228.15.15.175:1234
 #EXTINF:-1 group-title="Cinema", Индийское Кино
-udp://228.15.15.177:1234
+udp://@228.15.15.177:1234
 #EXTINF:-1 group-title="Cinema", Родное кино
-udp://228.15.15.176:1234
+udp://@228.15.15.176:1234
 #EXTINF:-1 group-title="Cinema", Мосфильм
-udp://228.15.15.167:1234
+udp://@228.15.15.167:1234
 #EXTINF:-1 group-title="Cinema", Мужское Кино
-udp://228.15.15.164:1234
+udp://@228.15.15.164:1234
 #EXTINF:-1 group-title="Cinema", Еврокино
-udp://228.15.15.172:1234
+udp://@228.15.15.172:1234
 #EXTINF:-1 group-title="Cinema", Иллюзион +
-udp://228.15.15.173:1234
+udp://@228.15.15.173:1234
 #EXTINF:-1 group-title="Cinema", Русский Иллюзион
-udp://228.15.15.174:1234
+udp://@228.15.15.174:1234
 #EXTINF:-1 group-title="Cinema", Синема
-udp://228.15.15.165:1234
+udp://@228.15.15.165:1234
 #EXTINF:-1 group-title="Cinema", НСТВ
-udp://228.15.15.180:1234
+udp://@228.15.15.180:1234
 #EXTINF:-1 group-title="Cinema", Дом Кино
-udp://228.15.15.170:1234
+udp://@228.15.15.170:1234
 #EXTINF:-1 group-title="Cinema", Киносерия
-udp://228.15.15.153:1234
+udp://@228.15.15.153:1234
 #EXTINF:-1 group-title="Cinema", Домашний
-udp://228.15.15.73:1234
+udp://@228.15.15.73:1234
 #EXTINF:-1 group-title="Cinema", Волт
-udp://228.15.16.106:1234
+udp://@228.15.16.106:1234
 #EXTINF:-1 group-title="Cinema", ОТР
-udp://228.15.16.107:1234
+udp://@228.15.16.107:1234
 #EXTINF:-1 group-title="Cinema", Дорама
-udp://228.15.15.163:1234
+udp://@228.15.15.163:1234
 #EXTINF:-1 group-title="Cinema", Amedia II
-udp://228.15.15.157:1234
+udp://@228.15.15.157:1234
 #EXTINF:-1 group-title="Cinema", Amedia Hit
-udp://228.15.15.158:1234
+udp://@228.15.15.158:1234
 #EXTINF:-1 group-title="Cinema", Amedia Premium
-udp://228.15.15.159:1234
+udp://@228.15.15.159:1234
 #EXTINF:-1 group-title="Science", Sci-Fi
-udp://228.15.15.166:1234
+udp://@228.15.15.166:1234
 #EXTINF:-1 group-title="Science", Investigation Discovery
-udp://228.15.15.197:1234
+udp://@228.15.15.197:1234
 #EXTINF:-1 group-title="Science", Animal Planet
-udp://228.15.15.191:1234
+udp://@228.15.15.191:1234
 #EXTINF:-1 group-title="Science", Animal Planet HD
-udp://228.15.15.191:1234
+udp://@228.15.15.191:1234
 #EXTINF:-1 group-title="Science", Nat Geo Wild
-udp://228.15.16.148:1234
+udp://@228.15.16.148:1234
 #EXTINF:-1 group-title="Science", National Geographic HD
-udp://228.15.16.149:1234
+udp://@228.15.16.149:1234
 #EXTINF:-1 group-title="Science", Живая планета
-udp://228.15.16.109:1234
+udp://@228.15.16.109:1234
 #EXTINF:-1 group-title="Science", ZooPark
-udp://228.15.15.201:1234
+udp://@228.15.15.201:1234
 #EXTINF:-1 group-title="Science", Домашние животные
-udp://228.15.16.23:1234
+udp://@228.15.16.23:1234
 #EXTINF:-1 group-title="Entertainments", TLC Russia
-udp://228.15.16.11:1234
+udp://@228.15.16.11:1234
 #EXTINF:-1 group-title="Science", 24 Техно
-udp://228.15.15.204:1234
+udp://@228.15.15.204:1234
 #EXTINF:-1 group-title="Science", Наука 2.0
-udp://228.15.16.28:1234
+udp://@228.15.16.28:1234
 #EXTINF:-1 group-title="Information", 365 Дней
-udp://228.15.15.202:1234
+udp://@228.15.15.202:1234
 #EXTINF:-1 group-title="Science", История
-udp://228.15.16.29:1234
+udp://@228.15.16.29:1234
 #EXTINF:-1 group-title="Science", History
-udp://228.15.16.153:1234
+udp://@228.15.16.153:1234
 #EXTINF:-1 group-title="Science", viju+Nature
-udp://228.15.16.154:1234
+udp://@228.15.16.154:1234
 #EXTINF:-1 group-title="Science", viju+Explore
-udp://228.15.16.152:1234
+udp://@228.15.16.152:1234
 #EXTINF:-1 group-title="Science", viju+History
-udp://228.15.16.153:1234
+udp://@228.15.16.153:1234
 #EXTINF:-1 group-title="Sports", viju+Sport
-udp://228.15.15.122:1234
+udp://@228.15.15.122:1234
 #EXTINF:-1 group-title="Sports", Eurosport 1
-udp://228.15.15.103:1234
+udp://@228.15.15.103:1234
 #EXTINF:-1 group-title="Sports", Eurosport 1 HD
-udp://228.15.15.103:1234
+udp://@228.15.15.103:1234
 #EXTINF:-1 group-title="Sports", КХЛ
-udp://234.167.0.21:1234
+udp://@234.167.0.21:1234
 #EXTINF:-1 group-title="Sports", E TV
-udp://228.15.15.196:1234
+udp://@228.15.15.196:1234
 #EXTINF:-1 group-title="Children's", Детский мир
-udp://228.15.16.74:1234
+udp://@228.15.16.74:1234
 #EXTINF:-1 group-title="Children's", Радость моя
-udp://228.15.16.112:1234
+udp://@228.15.16.112:1234
 #EXTINF:-1 group-title="Children's", Карусель
-udp://228.15.16.73:1234
+udp://@228.15.16.73:1234
 #EXTINF:-1 group-title="Children's", Мульт
-udp://228.15.16.79:1234
+udp://@228.15.16.79:1234
 #EXTINF:-1 group-title="Children's", Уникум
-udp://228.15.16.113:1234
+udp://@228.15.16.113:1234
 #EXTINF:-1 group-title="Children's", Мама
-udp://228.15.16.114:1234
+udp://@228.15.16.114:1234
 #EXTINF:-1 group-title="Children's", Солнце
-udp://228.15.16.115:1234
+udp://@228.15.16.115:1234
 #EXTINF:-1 group-title="Children's", Ani
-udp://228.15.16.82:1234
+udp://@228.15.16.82:1234
 #EXTINF:-1 group-title="Children's", Da Vinci
-udp://228.15.16.81:1234
+udp://@228.15.16.81:1234
 #EXTINF:-1 group-title="Music", Музыка Первого
-udp://228.15.16.59:1234
+udp://@228.15.16.59:1234
 #EXTINF:-1 group-title="Music", ЖАРА
-udp://228.15.16.58:1234
+udp://@228.15.16.58:1234
 #EXTINF:-1 group-title="Music", RU TV
-udp://228.15.16.54:1234
+udp://@228.15.16.54:1234
 #EXTINF:-1 group-title="Music", BRIDGE TV Русский Хит
-udp://228.15.16.52:1234
+udp://@228.15.16.52:1234
 #EXTINF:-1 group-title="Music", Bridge TV Classic
-udp://228.15.16.49:1234
+udp://@228.15.16.49:1234
 #EXTINF:-1 group-title="Entertainments", Bridge TV
-udp://228.15.16.48:1234
+udp://@228.15.16.48:1234
 #EXTINF:-1 group-title="Music", Power HD
-udp://228.15.16.40:1234
+udp://@228.15.16.40:1234
 #EXTINF:-1 group-title="Cinema", Blutv | Play 1
-udp://228.17.15.12:1234
+udp://@228.17.15.12:1234
 #EXTINF:-1 group-title="Cinema", Dizi Channel
-udp://228.17.15.13:1234
+udp://@228.17.15.13:1234
 #EXTINF:-1 group-title="Cinema", FilmBox
-udp://228.17.15.14:1234
-#EXTINF:-1 group-title="Information", Euronews Rus
-udp://wtf?
+udp://@228.17.15.14:1234
 #EXTINF:-1 group-title="Information", Euronews Eng
-udp://228.15.15.93:1234
+udp://@228.15.15.93:1234
 #EXTINF:-1 group-title="Information", CNN Türk
-udp://228.15.15.87:1234
+udp://@228.15.15.87:1234
 #EXTINF:-1 group-title="Information", CNN
-udp://228.15.15.95:1234
+udp://@228.15.15.95:1234
 #EXTINF:-1 group-title="Information", BBC
-udp://228.15.15.94:1234
+udp://@228.15.15.94:1234
 #EXTINF:-1 group-title="Information", France 24
-udp://228.15.15.96:1234
+udp://@228.15.15.96:1234
