@@ -1,0 +1,539 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="AZ TV HD" tvg-logo="https://a3mw.aile.tv/storage/4dc6d4fc4002d8ff2e3cff4d5d49e072" group-title="Azerbaycan",AZ TV HD
+http://80.69.59.104:9000/live/Amin/1309/873.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="İctimai TV HD" tvg-logo="https://a3mw.aile.tv/storage/c67916fa6963ab3da028d9b3edd9fa5d" group-title="Azerbaycan",İctimai TV HD
+http://80.69.59.104:9000/live/Amin/1309/800.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ATV Cinema HD" tvg-logo="" group-title="Azerbaycan",ATV Cinema HD
+http://80.69.59.104:9000/live/Amin/1309/1137.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ATV HD" tvg-logo="https://a3mw.aile.tv/storage/6b64c9192fe77e0423e6c301d6d51624" group-title="Azerbaycan",ATV HD
+http://80.69.59.104:9000/live/Amin/1309/947.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ARB TV HD" tvg-logo="" group-title="Azerbaycan",ARB TV HD
+http://80.69.59.104:9000/live/Amin/1309/1302.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ARB Günəş HD" tvg-logo="" group-title="Azerbaycan",ARB Günəş HD
+http://80.69.59.104:9000/live/Amin/1309/1305.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ARB 24 HD" tvg-logo="" group-title="Azerbaycan",ARB 24 HD
+http://80.69.59.104:9000/live/Amin/1309/1303.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 2" tvg-logo="https://a3mw.aile.tv/storage/a75552995332a5859a90e2b8574262cc" group-title="Azerbaycan",Sport TV 2
+http://80.69.59.104:9000/live/Amin/1309/711.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV" tvg-logo="https://a3mw.aile.tv/storage/56b93c33448f039b8106184be323e27e" group-title="Azerbaycan",Sport TV
+http://80.69.59.104:9000/live/Amin/1309/716.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV-NET Sport" tvg-logo="https://a3mw.aile.tv/storage/4910df8a8b9bc5d6e3c3f48c5b063a34" group-title="Azerbaycan",TV-NET Sport
+http://80.69.59.104:9000/live/Amin/1309/717.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Naxchivan TV HD" tvg-logo="" group-title="Azerbaycan",Naxchivan TV HD
+http://80.69.59.104:9000/live/Amin/1309/491.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APA TV" tvg-logo="https://a3mw.aile.tv/storage/e41d2c6a47370759b456ab65d10d75ca" group-title="Azerbaycan",APA TV
+http://80.69.59.104:9000/live/Amin/1309/714.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Biznes TV HD" tvg-logo="" group-title="Azerbaycan",Biznes TV HD
+http://80.69.59.104:9000/live/Amin/1309/483.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ATV VIVACE" tvg-logo="https://a3mw.aile.tv/storage/7a10b03af28d399d3b0540a2c66dd405" group-title="Azerbaycan",ATV VIVACE
+http://80.69.59.104:9000/live/Amin/1309/724.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Real TV HD" tvg-logo="" group-title="Azerbaycan",Real TV HD
+http://80.69.59.104:9000/live/Amin/1309/1311.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DunyaTV" tvg-logo="https://a3mw.aile.tv/storage/38083bf5d262ddeb583073784c10cc3c" group-title="Azerbaycan",DunyaTV
+http://80.69.59.104:9000/live/Amin/1309/733.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kanal S HD" tvg-logo="" group-title="Azerbaycan",Kanal S HD
+http://80.69.59.104:9000/live/Amin/1309/1309.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Xəzər TV HD" tvg-logo="" group-title="Azerbaycan",Xəzər TV HD
+http://80.69.59.104:9000/live/Amin/1309/1300.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CBC Azerbaijan HD" tvg-logo="" group-title="Azerbaycan",CBC Azerbaijan HD
+http://80.69.59.104:9000/live/Amin/1309/1307.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Anewz HD" tvg-logo="" group-title="Azerbaycan",Anewz HD
+http://80.69.59.104:9000/live/Amin/1309/1301.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mədəniyyət TV HD" tvg-logo="https://a3mw.aile.tv/storage/ac18e124da45937d82b5a1c46cdc9027" group-title="Azerbaycan",Mədəniyyət TV HD
+http://80.69.59.104:9000/live/Amin/1309/827.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Baku TV HD" tvg-logo="" group-title="Azerbaycan",Baku TV HD
+http://80.69.59.104:9000/live/Amin/1309/1306.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="İdman HD" tvg-logo="https://a3mw.aile.tv/storage/c5a6604482cc0ed0f3b10ea5d9bdfeae" group-title="Azerbaycan",İdman HD
+http://80.69.59.104:9000/live/Amin/1309/891.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CBC Sport HD" tvg-logo="" group-title="Azerbaycan",CBC Sport HD
+http://80.69.59.104:9000/live/Amin/1309/1308.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV Azərbaycan HD" tvg-logo="" group-title="Azerbaycan",MTV Azərbaycan HD
+http://80.69.59.104:9000/live/Amin/1309/1310.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Show Plus TV HD" tvg-logo="" group-title="Azerbaycan",Show Plus TV HD
+http://80.69.59.104:9000/live/Amin/1309/1304.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Space TV HD" tvg-logo="" group-title="Azerbaycan",Space TV HD
+http://80.69.59.104:9000/live/Amin/1309/1312.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Live" tvg-logo="" group-title="Azerbaycan",Live
+http://80.69.59.104:9000/live/Amin/1309/1186.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Azstar" tvg-logo="" group-title="Azerbaycan",Azstar
+http://80.69.59.104:9000/live/Amin/1309/1185.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="El" tvg-logo="" group-title="Azerbaycan",El
+http://80.69.59.104:9000/live/Amin/1309/1182.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ferrux tv" tvg-logo="" group-title="Azerbaycan",Ferrux tv
+http://80.69.59.104:9000/live/Amin/1309/1181.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AlZahra" tvg-logo="" group-title="Azerbaycan",AlZahra
+http://80.69.59.104:9000/live/Amin/1309/1180.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Qafqaz tv" tvg-logo="" group-title="Azerbaycan",Qafqaz tv
+http://80.69.59.104:9000/live/Amin/1309/1296.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Vilayet" tvg-logo="" group-title="Azerbaycan",Vilayet
+http://80.69.59.104:9000/live/Amin/1309/1179.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kepez" tvg-logo="" group-title="Azerbaycan",Kepez
+http://80.69.59.104:9000/live/Amin/1309/1253.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tv 1" tvg-logo="" group-title="Azerbaycan",Tv 1
+http://80.69.59.104:9000/live/Amin/1309/1255.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRT KURDİ HD" tvg-logo="" group-title="Turkiye",TRT KURDİ HD
+http://80.69.59.104:9000/live/Amin/1309/530.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kanal 7-Avrupa HD" tvg-logo="" group-title="Turkiye",Kanal 7-Avrupa HD
+http://80.69.59.104:9000/live/Amin/1309/512.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRT 3 SPOR HD" tvg-logo="" group-title="Turkiye",TRT 3 SPOR HD
+http://80.69.59.104:9000/live/Amin/1309/535.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ATV AVRUPA HD" tvg-logo="" group-title="Turkiye",ATV AVRUPA HD
+http://80.69.59.104:9000/live/Amin/1309/500.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Showmax HD" tvg-logo="" group-title="Turkiye",Showmax HD
+http://80.69.59.104:9000/live/Amin/1309/518.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Beyaz HD" tvg-logo="" group-title="Turkiye",Beyaz HD
+http://80.69.59.104:9000/live/Amin/1309/503.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Turkmeneli TV" tvg-logo="" group-title="Turkiye",Turkmeneli TV
+http://80.69.59.104:9000/live/Amin/1309/537.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV 8-İnt HD" tvg-logo="" group-title="Turkiye",TV 8-İnt HD
+http://80.69.59.104:9000/live/Amin/1309/540.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network TR" tvg-logo="" group-title="Turkiye",Cartoon Network TR
+http://80.69.59.104:9000/live/Amin/1309/504.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EURO D HD" tvg-logo="" group-title="Turkiye",EURO D HD
+http://80.69.59.104:9000/live/Amin/1309/508.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A Spor HD" tvg-logo="" group-title="Turkiye",A Spor HD
+http://80.69.59.104:9000/live/Amin/1309/501.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EURO STAR" tvg-logo="" group-title="Turkiye",EURO STAR
+http://80.69.59.104:9000/live/Amin/1309/509.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRT WORLD HD" tvg-logo="" group-title="Turkiye",TRT WORLD HD
+http://80.69.59.104:9000/live/Amin/1309/527.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRT SPOR 2 HD" tvg-logo="" group-title="Turkiye",TRT SPOR 2 HD
+http://80.69.59.104:9000/live/Amin/1309/534.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Teve2 HD" tvg-logo="" group-title="Turkiye",Teve2 HD
+http://80.69.59.104:9000/live/Amin/1309/539.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRT MÜZİK" tvg-logo="https://a3mw.aile.tv/storage/cf8c2d3f8825581c7591d1472462d51a" group-title="Turkiye",TRT MÜZİK
+http://80.69.59.104:9000/live/Amin/1309/722.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="POWER TÜRK" tvg-logo="https://a3mw.aile.tv/storage/9cc9b71e530a2569ccdc9451f3d8f02b" group-title="Turkiye",POWER TÜRK
+http://80.69.59.104:9000/live/Amin/1309/723.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kanal 7" tvg-logo="https://a3mw.aile.tv/storage/86fc617af8468096f03d6690d500e936" group-title="Turkiye",Kanal 7
+http://80.69.59.104:9000/live/Amin/1309/736.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star TV HD" tvg-logo="https://a3mw.aile.tv/storage/6b5e4eedd1a4c401f15545c26b383294" group-title="Turkiye",Star TV HD
+http://80.69.59.104:9000/live/Amin/1309/747.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Show TV HD" tvg-logo="" group-title="Turkiye",Show TV HD
+http://80.69.59.104:9000/live/Amin/1309/1340.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Showtürk HD" tvg-logo="" group-title="Turkiye",Showtürk HD
+http://80.69.59.104:9000/live/Amin/1309/519.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN Turk HD" tvg-logo="" group-title="Turkiye",CNN Turk HD
+http://80.69.59.104:9000/live/Amin/1309/1335.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRT SPOR YILDIZ" tvg-logo="https://a3mw.aile.tv/storage/d92356ed02d8be877ecfb26283bd3b09" group-title="Turkiye",TRT SPOR YILDIZ
+http://80.69.59.104:9000/live/Amin/1309/712.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRT Avaz HD" tvg-logo="" group-title="Turkiye",TRT Avaz HD
+http://80.69.59.104:9000/live/Amin/1309/1342.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A2 TR" tvg-logo="" group-title="Turkiye",A2 TR
+http://80.69.59.104:9000/live/Amin/1309/502.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRT HABER HD" tvg-logo="" group-title="Turkiye",TRT HABER HD
+http://80.69.59.104:9000/live/Amin/1309/1343.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV 8,5" tvg-logo="https://a3mw.aile.tv/storage/3e70658c1bc8b50742c79c58c257dbcc" group-title="Turkiye",TV 8,5
+http://80.69.59.104:9000/live/Amin/1309/825.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kanal D HD" tvg-logo="" group-title="Turkiye",Kanal D HD
+http://80.69.59.104:9000/live/Amin/1309/1339.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV8 HD" tvg-logo="https://a3mw.aile.tv/storage/d77b8b0342d123558ed9cd1ff46da34f" group-title="Turkiye",TV8 HD
+http://80.69.59.104:9000/live/Amin/1309/869.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Minika Go" tvg-logo="https://a3mw.aile.tv/storage/b16981f5a5504ef76efca21e70fbcfc7" group-title="Turkiye",Minika Go
+http://80.69.59.104:9000/live/Amin/1309/872.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Minika Çocuk" tvg-logo="https://a3mw.aile.tv/storage/3da140a8b81b62fb1b1b317e0a52aa6a" group-title="Turkiye",Minika Çocuk
+http://80.69.59.104:9000/live/Amin/1309/892.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Haber Global HD" tvg-logo="" group-title="Turkiye",Haber Global HD
+http://80.69.59.104:9000/live/Amin/1309/1337.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRT 1 HD" tvg-logo="https://a3mw.aile.tv/storage/17122de48ce7d32de8b26324c4e476a3" group-title="Turkiye",TRT 1 HD
+http://80.69.59.104:9000/live/Amin/1309/801.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRT Belgesel" tvg-logo="https://a3mw.aile.tv/storage/382921bc34ba1df3e8d6d8d662da5716" group-title="Turkiye",TRT Belgesel
+http://80.69.59.104:9000/live/Amin/1309/920.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DREAM TURK HD" tvg-logo="" group-title="Turkiye",DREAM TURK HD
+http://80.69.59.104:9000/live/Amin/1309/1336.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRT 2 HD" tvg-logo="" group-title="Turkiye",TRT 2 HD
+http://80.69.59.104:9000/live/Amin/1309/1341.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tabii" tvg-logo="" group-title="Turkiye",Tabii
+http://80.69.59.104:9000/live/Amin/1309/1187.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRT TURK HD" tvg-logo="" group-title="Turkiye",TRT TURK HD
+http://80.69.59.104:9000/live/Amin/1309/529.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Now" tvg-logo="" group-title="Turkiye",Now
+http://80.69.59.104:9000/live/Amin/1309/1295.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NR 1 Turk" tvg-logo="" group-title="Turkiye",NR 1 Turk
+http://80.69.59.104:9000/live/Amin/1309/516.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ATV Türk HD" tvg-logo="https://a3mw.aile.tv/storage/2db692c3c357c266447fb8ab1b834e6b" group-title="Turkiye",ATV Türk HD
+http://80.69.59.104:9000/live/Amin/1309/934.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TGRT EU HD" tvg-logo="" group-title="Turkiye",TGRT EU HD
+http://80.69.59.104:9000/live/Amin/1309/707.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRT COCUK HD" tvg-logo="" group-title="Turkiye",TRT COCUK HD
+http://80.69.59.104:9000/live/Amin/1309/1344.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Habertürk HD" tvg-logo="" group-title="Turkiye",Habertürk HD
+http://80.69.59.104:9000/live/Amin/1309/511.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="360 TV HD" tvg-logo="" group-title="Turkiye",360 TV HD
+http://80.69.59.104:9000/live/Amin/1309/1345.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRT Spor" tvg-logo="https://a3mw.aile.tv/storage/29aec91bb871cb90249aa5e66e1a160a" group-title="Turkiye",TRT Spor
+http://80.69.59.104:9000/live/Amin/1309/828.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Беларусь 24" tvg-logo="" group-title="Xarici",Беларусь 24
+http://80.69.59.104:9000/live/Amin/1309/586.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Бридж ТВ" tvg-logo="" group-title="Xarici",Бридж ТВ
+http://80.69.59.104:9000/live/Amin/1309/587.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Восток ТВ" tvg-logo="" group-title="Xarici",Восток ТВ
+http://80.69.59.104:9000/live/Amin/1309/590.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Еда Премиум HD" tvg-logo="" group-title="Xarici",Еда Премиум HD
+http://80.69.59.104:9000/live/Amin/1309/592.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Лапки LIVE" tvg-logo="" group-title="Xarici",Лапки LIVE
+http://80.69.59.104:9000/live/Amin/1309/596.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Детский мир HD" tvg-logo="" group-title="Xarici",Детский мир HD
+http://80.69.59.104:9000/live/Amin/1309/594.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Доктор" tvg-logo="" group-title="Xarici",Доктор
+http://80.69.59.104:9000/live/Amin/1309/600.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Здоровое телевидение" tvg-logo="" group-title="Xarici",Здоровое телевидение
+http://80.69.59.104:9000/live/Amin/1309/608.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dorama" tvg-logo="" group-title="Xarici",Dorama
+http://80.69.59.104:9000/live/Amin/1309/618.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Наука HD" tvg-logo="" group-title="Xarici",Наука HD
+http://80.69.59.104:9000/live/Amin/1309/638.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Советская киноклассика" tvg-logo="" group-title="Xarici",Советская киноклассика
+http://80.69.59.104:9000/live/Amin/1309/643.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Космический HD" tvg-logo="" group-title="Xarici",Космический HD
+http://80.69.59.104:9000/live/Amin/1309/654.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="РБК" tvg-logo="" group-title="Xarici",РБК
+http://80.69.59.104:9000/live/Amin/1309/660.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Синема" tvg-logo="" group-title="Xarici",Синема
+http://80.69.59.104:9000/live/Amin/1309/668.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Зал 13" tvg-logo="" group-title="Xarici",Зал 13
+http://80.69.59.104:9000/live/Amin/1309/669.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="СТСI HD" tvg-logo="" group-title="Xarici",СТСI HD
+http://80.69.59.104:9000/live/Amin/1309/672.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Совершенно секретно" tvg-logo="" group-title="Xarici",Совершенно секретно
+http://80.69.59.104:9000/live/Amin/1309/670.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bollywood HD" tvg-logo="" group-title="Xarici",Bollywood HD
+http://80.69.59.104:9000/live/Amin/1309/547.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network RU HD" tvg-logo="" group-title="Xarici",Cartoon Network RU HD
+http://80.69.59.104:9000/live/Amin/1309/548.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ТНТ Музыкальный" tvg-logo="" group-title="Xarici",ТНТ Музыкальный
+http://80.69.59.104:9000/live/Amin/1309/680.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FREEDОМ HD" tvg-logo="" group-title="Xarici",FREEDОМ HD
+http://80.69.59.104:9000/live/Amin/1309/556.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Феникс+кино" tvg-logo="" group-title="Xarici",Феникс+кино
+http://80.69.59.104:9000/live/Amin/1309/683.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FX Life HD" tvg-logo="" group-title="Xarici",FX Life HD
+http://80.69.59.104:9000/live/Amin/1309/557.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FX Ru HD" tvg-logo="" group-title="Xarici",FX Ru HD
+http://80.69.59.104:9000/live/Amin/1309/558.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=".sci-fi" tvg-logo="" group-title="Xarici",.sci-fi
+http://80.69.59.104:9000/live/Amin/1309/688.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="REN TV International HD" tvg-logo="" group-title="Xarici",REN TV International HD
+http://80.69.59.104:9000/live/Amin/1309/564.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU.TV" tvg-logo="" group-title="Xarici",RU.TV
+http://80.69.59.104:9000/live/Amin/1309/565.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="5 канал" tvg-logo="" group-title="Xarici",5 канал
+http://80.69.59.104:9000/live/Amin/1309/690.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ARİRANG HD" tvg-logo="" group-title="Xarici",ARİRANG HD
+http://80.69.59.104:9000/live/Amin/1309/692.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Deutsch Well HD" tvg-logo="" group-title="Xarici",Deutsch Well HD
+http://80.69.59.104:9000/live/Amin/1309/697.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bridge TV Русский хит" tvg-logo="" group-title="Xarici",Bridge TV Русский хит
+http://80.69.59.104:9000/live/Amin/1309/703.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVP World HD" tvg-logo="" group-title="Xarici",TVP World HD
+http://80.69.59.104:9000/live/Amin/1309/705.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ПЕРВЫЙ КОСМИЧЕСКИЙ" tvg-logo="https://a3mw.aile.tv/storage/42811c05eb4ace2326c451e9357549a9" group-title="Xarici",ПЕРВЫЙ КОСМИЧЕСКИЙ
+http://80.69.59.104:9000/live/Amin/1309/727.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Gulli Girl" tvg-logo="https://a3mw.aile.tv/storage/b9f408a2bf76c86034a4c12f392608f8" group-title="Xarici",Gulli Girl
+http://80.69.59.104:9000/live/Amin/1309/728.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ОРУЖИЕ" tvg-logo="https://a3mw.aile.tv/storage/a2c7ffd40b1e33a9f1b48e88babfdf7b" group-title="Xarici",ОРУЖИЕ
+http://80.69.59.104:9000/live/Amin/1309/731.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="В ГОСТЯХ У СКАЗКИ" tvg-logo="https://a3mw.aile.tv/storage/dbadff522d438b0792bdccb79d428b78" group-title="Xarici",В ГОСТЯХ У СКАЗКИ
+http://80.69.59.104:9000/live/Amin/1309/732.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="France 24" tvg-logo="https://a3mw.aile.tv/storage/13f25b9b4f5d2afc0b1496124d3e9297" group-title="Xarici",France 24
+http://80.69.59.104:9000/live/Amin/1309/735.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bridge Hits" tvg-logo="https://a3mw.aile.tv/storage/906cfb8be13ede5ad4d11a5a4920398c" group-title="Xarici",Bridge Hits
+http://80.69.59.104:9000/live/Amin/1309/738.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Al Jazeera International" tvg-logo="https://a3mw.aile.tv/storage/e09388deac7133d7ae2b5de87a526558" group-title="Xarici",Al Jazeera International
+http://80.69.59.104:9000/live/Amin/1309/739.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BIG PLANET" tvg-logo="https://a3mw.aile.tv/storage/cc2bc3fb1b228ee32d0180f0cfe01db0" group-title="Xarici",BIG PLANET
+http://80.69.59.104:9000/live/Amin/1309/740.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Deutsche Welle" tvg-logo="https://a3mw.aile.tv/storage/1ad444fe959345f75aaa528b02f4fd59" group-title="Xarici",Deutsche Welle
+http://80.69.59.104:9000/live/Amin/1309/741.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="В МИРЕ ЖИВОТНЫХ" tvg-logo="https://a3mw.aile.tv/storage/0494035a7bad56ba0a68a08e083e559d" group-title="Xarici",В МИРЕ ЖИВОТНЫХ
+http://80.69.59.104:9000/live/Amin/1309/742.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ЕДА INT" tvg-logo="https://a3mw.aile.tv/storage/de795d6583844011bf6e07fb8b34f74e" group-title="Xarici",ЕДА INT
+http://80.69.59.104:9000/live/Amin/1309/743.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="РЫБОЛОВ" tvg-logo="https://a3mw.aile.tv/storage/d8870072325f9c47fc3341df0f7dfb04" group-title="Xarici",РЫБОЛОВ
+http://80.69.59.104:9000/live/Amin/1309/744.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="НАШ КИНОПОКАЗ" tvg-logo="https://a3mw.aile.tv/storage/cabf71ae893ec1d363089fe14d69876f" group-title="Xarici",НАШ КИНОПОКАЗ
+http://80.69.59.104:9000/live/Amin/1309/745.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ФЕНИКС КИНО" tvg-logo="https://a3mw.aile.tv/storage/8e616d2018d15ef3cc7fdeb163315733" group-title="Xarici",ФЕНИКС КИНО
+http://80.69.59.104:9000/live/Amin/1309/748.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="КАПИТАН ФАНТАСТИКА" tvg-logo="https://a3mw.aile.tv/storage/299d63433608de91df8e32b8f0968ea7" group-title="Xarici",КАПИТАН ФАНТАСТИКА
+http://80.69.59.104:9000/live/Amin/1309/749.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Загородный" tvg-logo="https://a3mw.aile.tv/storage/26fa5ad40e7d6ec674b80830495f6ba7" group-title="Xarici",Загородный
+http://80.69.59.104:9000/live/Amin/1309/751.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ИЛЛЮЗИОН+" tvg-logo="https://a3mw.aile.tv/storage/ee04dd8667cb75c4efdb9064e979762e" group-title="Xarici",ИЛЛЮЗИОН+
+http://80.69.59.104:9000/live/Amin/1309/752.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="АРСЕНАЛ" tvg-logo="https://a3mw.aile.tv/storage/be7b0deff23f85968d531de160619f97" group-title="Xarici",АРСЕНАЛ
+http://80.69.59.104:9000/live/Amin/1309/753.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ТВ СПОРТ" tvg-logo="https://a3mw.aile.tv/storage/04192b215ed935a467054129840b0968" group-title="Xarici",ТВ СПОРТ
+http://80.69.59.104:9000/live/Amin/1309/754.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ПРИКЛЮЧЕНИЯ" tvg-logo="https://a3mw.aile.tv/storage/6790c235510afb5a84c40e8da89995af" group-title="Xarici",ПРИКЛЮЧЕНИЯ
+http://80.69.59.104:9000/live/Amin/1309/755.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="РЫЖИЙ" tvg-logo="https://a3mw.aile.tv/storage/06fea4d43ab8ed70e6f4faabef723111" group-title="Xarici",РЫЖИЙ
+http://80.69.59.104:9000/live/Amin/1309/757.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Euronews" tvg-logo="https://a3mw.aile.tv/storage/c19e157d75e2460836a2ef659b62be23" group-title="Xarici",Euronews
+http://80.69.59.104:9000/live/Amin/1309/760.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="РЕТРО" tvg-logo="https://a3mw.aile.tv/storage/272751e0cab9c4405d934327d546be20" group-title="Xarici",РЕТРО
+http://80.69.59.104:9000/live/Amin/1309/762.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Россия 24" tvg-logo="https://a3mw.aile.tv/storage/9e89331c20465159901b11c49bcf85c5" group-title="Xarici",Россия 24
+http://80.69.59.104:9000/live/Amin/1309/765.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ВОПРОСЫ И ОТВЕТЫ" tvg-logo="https://a3mw.aile.tv/storage/d2d9eed36b2229ce5a1d168def67d9dc" group-title="Xarici",ВОПРОСЫ И ОТВЕТЫ
+http://80.69.59.104:9000/live/Amin/1309/770.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Уникум" tvg-logo="https://a3mw.aile.tv/storage/f5a8367785693e66ad445848c01c7c65" group-title="Xarici",Уникум
+http://80.69.59.104:9000/live/Amin/1309/771.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="НАША СИБИРЬ" tvg-logo="https://a3mw.aile.tv/storage/7ac3bc38d7d4fba0e9c9837d2e323ff0" group-title="Xarici",НАША СИБИРЬ
+http://80.69.59.104:9000/live/Amin/1309/773.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ДРАЙВ" tvg-logo="https://a3mw.aile.tv/storage/2e3bfc4ccbfda9f87df429096213e70a" group-title="Xarici",ДРАЙВ
+http://80.69.59.104:9000/live/Amin/1309/775.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ОХОТНИК И РЫБОЛОВ" tvg-logo="https://a3mw.aile.tv/storage/8ee5fcb44b1bd79caf62b1e5550aeb02" group-title="Xarici",ОХОТНИК И РЫБОЛОВ
+http://80.69.59.104:9000/live/Amin/1309/776.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="РТР Планета" tvg-logo="https://a3mw.aile.tv/storage/b3efb4377e15c2445e58f9063b79b6d4" group-title="Xarici",РТР Планета
+http://80.69.59.104:9000/live/Amin/1309/780.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ВРЕМЯ" tvg-logo="https://a3mw.aile.tv/storage/f80e034ff1ac20fae384f8fbffbe1f82" group-title="Xarici",ВРЕМЯ
+http://80.69.59.104:9000/live/Amin/1309/782.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Terra" tvg-logo="https://a3mw.aile.tv/storage/ab8416ceb2e3f362180131338e566458" group-title="Xarici",Terra
+http://80.69.59.104:9000/live/Amin/1309/786.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VIJU+ PLANET" tvg-logo="https://a3mw.aile.tv/storage/553614ce747a01ffe04979070ad12f45" group-title="Xarici",VIJU+ PLANET
+http://80.69.59.104:9000/live/Amin/1309/787.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ТНТ 4" tvg-logo="https://a3mw.aile.tv/storage/cd1e7259345fd7404eaa56056d785371" group-title="Xarici",ТНТ 4
+http://80.69.59.104:9000/live/Amin/1309/788.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TIJI" tvg-logo="https://a3mw.aile.tv/storage/bacf92e46f45f695d8e06dfb30c5037f" group-title="Xarici",TIJI
+http://80.69.59.104:9000/live/Amin/1309/789.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ПСИХОЛОГИЯ 21" tvg-logo="https://a3mw.aile.tv/storage/28bb27c520a06834775c54c201f21091" group-title="Xarici",ПСИХОЛОГИЯ 21
+http://80.69.59.104:9000/live/Amin/1309/790.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBC World" tvg-logo="https://a3mw.aile.tv/storage/513477f9180da866d97878cc11d373a5" group-title="Xarici",BBC World
+http://80.69.59.104:9000/live/Amin/1309/791.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN International" tvg-logo="https://a3mw.aile.tv/storage/0e6a6b240765e715c45ae187b93e929d" group-title="Xarici",CNN International
+http://80.69.59.104:9000/live/Amin/1309/792.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KANAL AVRUPA HD" tvg-logo="" group-title="Turkiye",KANAL AVRUPA HD
+http://80.69.59.104:9000/live/Amin/1309/1338.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ТНТ" tvg-logo="https://a3mw.aile.tv/storage/f510021d25eae8e6742f1390491cb163" group-title="Xarici",ТНТ
+http://80.69.59.104:9000/live/Amin/1309/795.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 1 HD" tvg-logo="https://a3mw.aile.tv/storage/6112789e94212bb27780bdc487f8584e" group-title="Xarici",Eurosport 1 HD
+http://80.69.59.104:9000/live/Amin/1309/796.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Россия 1 HD" tvg-logo="https://a3mw.aile.tv/storage/573aeb021c20ef8cd69dd1e3ec1d68bf" group-title="Xarici",Россия 1 HD
+http://80.69.59.104:9000/live/Amin/1309/798.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ЖИВАЯ ПЛАНЕТА" tvg-logo="https://a3mw.aile.tv/storage/a1233cc19a93b5c634ca2d84086f4402" group-title="Xarici",ЖИВАЯ ПЛАНЕТА
+http://80.69.59.104:9000/live/Amin/1309/802.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ИНСАЙТ ТВ" tvg-logo="https://a3mw.aile.tv/storage/877f8e328f590cc43213ef7330e41516" group-title="Xarici",ИНСАЙТ ТВ
+http://80.69.59.104:9000/live/Amin/1309/804.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="НСТ" tvg-logo="https://a3mw.aile.tv/storage/b234e5146d32925b7e49cc9443788f0a" group-title="Xarici",НСТ
+http://80.69.59.104:9000/live/Amin/1309/805.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Авто Плюс" tvg-logo="https://a3mw.aile.tv/storage/b0b7ddf35e611bd4f508613e922ad4a5" group-title="Xarici",Авто Плюс
+http://80.69.59.104:9000/live/Amin/1309/806.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Sci Fi" tvg-logo="https://a3mw.aile.tv/storage/406ed81d5980e759be0ef1e7806d1aa3" group-title="Xarici",Sony Sci Fi
+http://80.69.59.104:9000/live/Amin/1309/807.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Моя Планета" tvg-logo="https://a3mw.aile.tv/storage/c89bb41d1f918a60eec7847f7193ee21" group-title="Xarici",Моя Планета
+http://80.69.59.104:9000/live/Amin/1309/808.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ДОМ КИНО ПРЕМИУМ" tvg-logo="https://a3mw.aile.tv/storage/04c55d704e175e5bd4351f02398c0dc4" group-title="Xarici",ДОМ КИНО ПРЕМИУМ
+http://80.69.59.104:9000/live/Amin/1309/809.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Киносемья" tvg-logo="https://a3mw.aile.tv/storage/79efc0e42ef4c7da7883fd64f037ea12" group-title="Xarici",Киносемья
+http://80.69.59.104:9000/live/Amin/1309/810.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BRIDGE TV Classic" tvg-logo="https://a3mw.aile.tv/storage/b8d018e8c9e07bc58b16f3c4bbef166a" group-title="Xarici",BRIDGE TV Classic
+http://80.69.59.104:9000/live/Amin/1309/811.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VIJU+ SPORT" tvg-logo="https://a3mw.aile.tv/storage/61c0ea79c1eac956fca625552407b4ab" group-title="Xarici",VIJU+ SPORT
+http://80.69.59.104:9000/live/Amin/1309/812.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Мужское Кино" tvg-logo="https://a3mw.aile.tv/storage/8b9ff85425a55852bb2bfeb20a1217af" group-title="Xarici",Мужское Кино
+http://80.69.59.104:9000/live/Amin/1309/813.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Усадьба ТВ" tvg-logo="https://a3mw.aile.tv/storage/30d78c3a0aa2b739b2ff2c1afc75fc89" group-title="Xarici",Усадьба ТВ
+http://80.69.59.104:9000/live/Amin/1309/816.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="O!" tvg-logo="https://a3mw.aile.tv/storage/57fe01e2fff43d61e4a90fa236a53c40" group-title="Xarici",O!
+http://80.69.59.104:9000/live/Amin/1309/817.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Телекафе" tvg-logo="https://a3mw.aile.tv/storage/ac09fe6fcb5cd9d2103fc23495afdd7f" group-title="Xarici",Телекафе
+http://80.69.59.104:9000/live/Amin/1309/818.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Бобёр ТВ" tvg-logo="https://a3mw.aile.tv/storage/979ae4da93bb55838c81214c952444ab" group-title="Xarici",Бобёр ТВ
+http://80.69.59.104:9000/live/Amin/1309/820.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Русский Иллюзион" tvg-logo="https://a3mw.aile.tv/storage/259d9cde4b4170f415c5cabbbe159227" group-title="Xarici",Русский Иллюзион
+http://80.69.59.104:9000/live/Amin/1309/821.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rai News 24" tvg-logo="https://a3mw.aile.tv/storage/10e56e3d9edca447ded44509dd6a5e5b" group-title="Xarici",Rai News 24
+http://80.69.59.104:9000/live/Amin/1309/823.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="КХЛ PRIME" tvg-logo="https://a3mw.aile.tv/storage/cc26eaf791209135555c999a9a90103c" group-title="Xarici",КХЛ PRIME
+http://80.69.59.104:9000/live/Amin/1309/824.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Кто Есть Кто" tvg-logo="https://a3mw.aile.tv/storage/7e67f32aa1486875f6116a6f9bd23b9b" group-title="Xarici",Кто Есть Кто
+http://80.69.59.104:9000/live/Amin/1309/826.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="365 Дней" tvg-logo="https://a3mw.aile.tv/storage/fe46aa069ed77ca1f1346c1a450f7941" group-title="Xarici",365 Дней
+http://80.69.59.104:9000/live/Amin/1309/829.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Телеканал КХЛ" tvg-logo="https://a3mw.aile.tv/storage/9589bc54d9c83c8ff6f5db2096a8a501" group-title="Xarici",Телеканал КХЛ
+http://80.69.59.104:9000/live/Amin/1309/830.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="МИР" tvg-logo="https://a3mw.aile.tv/storage/d73e7659e8b59a076f6ac6835b5e81fc" group-title="Xarici",МИР
+http://80.69.59.104:9000/live/Amin/1309/835.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU TV" tvg-logo="https://a3mw.aile.tv/storage/74e817eb703f2a42a78ee9dadf108748" group-title="Xarici",RU TV
+http://80.69.59.104:9000/live/Amin/1309/836.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VİJU+ MEGAHIT" tvg-logo="https://a3mw.aile.tv/storage/d001fe44885c2f204c163d4dd75e765e" group-title="Xarici",VİJU+ MEGAHIT
+http://80.69.59.104:9000/live/Amin/1309/837.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="КИНЕКО" tvg-logo="https://a3mw.aile.tv/storage/e7e3ffd91112108437ea690e07dc05f2" group-title="Xarici",КИНЕКО
+http://80.69.59.104:9000/live/Amin/1309/838.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="СТАРТ" tvg-logo="https://a3mw.aile.tv/storage/b5d2a19306c686028aba36c91be126d1" group-title="Xarici",СТАРТ
+http://80.69.59.104:9000/live/Amin/1309/839.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ТВ Центр" tvg-logo="https://a3mw.aile.tv/storage/ce37d7cdd7b212c0470e52a4aa54a58d" group-title="Xarici",ТВ Центр
+http://80.69.59.104:9000/live/Amin/1309/840.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Карусель" tvg-logo="https://a3mw.aile.tv/storage/cd0340acabedf72e35190d339e728d69" group-title="Xarici",Карусель
+http://80.69.59.104:9000/live/Amin/1309/841.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VİJU TV 1000 ACTION" tvg-logo="https://a3mw.aile.tv/storage/2315035f6657e59501d61f513da155f6" group-title="Xarici",VİJU TV 1000 ACTION
+http://80.69.59.104:9000/live/Amin/1309/842.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A MEDIA 2" tvg-logo="https://a3mw.aile.tv/storage/02b7639e72529d4a3814817e1d750fab" group-title="Xarici",A MEDIA 2
+http://80.69.59.104:9000/live/Amin/1309/843.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Investigation Discovery Eng" tvg-logo="https://a3mw.aile.tv/storage/1bf24fd10ed9d56ab7684eacb05797a0" group-title="Xarici",Investigation Discovery Eng
+http://80.69.59.104:9000/live/Amin/1309/845.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VIJU+ HISTORY" tvg-logo="https://a3mw.aile.tv/storage/afa7c7567cd50de50230ec6d606ff432" group-title="Xarici",VIJU+ HISTORY
+http://80.69.59.104:9000/live/Amin/1309/847.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Домашний" tvg-logo="https://a3mw.aile.tv/storage/7924e3e857229e02b5d7ddbf6228b31d" group-title="Xarici",Домашний
+http://80.69.59.104:9000/live/Amin/1309/848.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="СТС" tvg-logo="https://a3mw.aile.tv/storage/0cb587dcdc0213defbd17627123ba4b0" group-title="Xarici",СТС
+http://80.69.59.104:9000/live/Amin/1309/849.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Пятница" tvg-logo="https://a3mw.aile.tv/storage/164c87d8028066227bffa1ec12949138" group-title="Xarici",Пятница
+http://80.69.59.104:9000/live/Amin/1309/852.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Домашние животные" tvg-logo="https://a3mw.aile.tv/storage/421ea20afdb5965f21ef2f01b6a04256" group-title="Xarici",Домашние животные
+http://80.69.59.104:9000/live/Amin/1309/853.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Авто 24" tvg-logo="https://a3mw.aile.tv/storage/7dc57a1e5095f0b58de2fb60b72cc1e6" group-title="Xarici",Авто 24
+http://80.69.59.104:9000/live/Amin/1309/858.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VIJU+ SERIAL" tvg-logo="https://a3mw.aile.tv/storage/980cddf5af12f7d35299e9dee95d6e8f" group-title="Xarici",VIJU+ SERIAL
+http://80.69.59.104:9000/live/Amin/1309/856.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PLAN B" tvg-logo="https://a3mw.aile.tv/storage/42b7e0d9df15dab1aa5b9f07dc5502a2" group-title="Xarici",PLAN B
+http://80.69.59.104:9000/live/Amin/1309/859.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Кухня ТВ" tvg-logo="https://a3mw.aile.tv/storage/2c6032473284981484bbc7295533ea40" group-title="Xarici",Кухня ТВ
+http://80.69.59.104:9000/live/Amin/1309/860.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="РЕН ТВ" tvg-logo="https://a3mw.aile.tv/storage/6415235c0549ba7bb8b79ac52a5d1e22" group-title="Xarici",РЕН ТВ
+http://80.69.59.104:9000/live/Amin/1309/862.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="МИР 24" tvg-logo="https://a3mw.aile.tv/storage/55c22c9c0be0cc728aedf6d78ecde390" group-title="Xarici",МИР 24
+http://80.69.59.104:9000/live/Amin/1309/863.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Охота и Рыбалка" tvg-logo="https://a3mw.aile.tv/storage/fbcd0788ba1b86eb3eb059d4016adb36" group-title="Xarici",Охота и Рыбалка
+http://80.69.59.104:9000/live/Amin/1309/864.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Орел и Решка HD" tvg-logo="" group-title="Xarici",Орел и Решка HD
+http://80.69.59.104:9000/live/Amin/1309/499.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ПОЕХАЛИ ТВ" tvg-logo="https://a3mw.aile.tv/storage/cb0d6e07b500d0b0ce5138d7129ba2ec" group-title="Xarici",ПОЕХАЛИ ТВ
+http://80.69.59.104:9000/live/Amin/1309/866.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="НТВ HD" tvg-logo="https://a3mw.aile.tv/storage/ba35165b56e3804a6e4fe7c10b4475ac" group-title="Xarici",НТВ HD
+http://80.69.59.104:9000/live/Amin/1309/867.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ЗооПарк" tvg-logo="https://a3mw.aile.tv/storage/b40d33bb3e04d9b65c5bfb3a9d6d8c77" group-title="Xarici",ЗооПарк
+http://80.69.59.104:9000/live/Amin/1309/868.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Матч! Планета" tvg-logo="https://a3mw.aile.tv/storage/5a9792be620171544f9d7f10f2a9bad6" group-title="Xarici",Матч! Планета
+http://80.69.59.104:9000/live/Amin/1309/870.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VIJU+ HISTORY Eng" tvg-logo="https://a3mw.aile.tv/storage/afa7c7567cd50de50230ec6d606ff432" group-title="Xarici",VIJU+ HISTORY Eng
+http://80.69.59.104:9000/live/Amin/1309/871.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Киноужас" tvg-logo="https://a3mw.aile.tv/storage/d3e0153d9435f6840db3436f4fcaf864" group-title="Xarici",Киноужас
+http://80.69.59.104:9000/live/Amin/1309/874.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Мульт" tvg-logo="https://a3mw.aile.tv/storage/aad3fa3a43e9c4061da02b776b881ece" group-title="Xarici",Мульт
+http://80.69.59.104:9000/live/Amin/1309/875.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Travel+Adventure" tvg-logo="https://a3mw.aile.tv/storage/6cbf2e10c131f54f331e6fbb4d53ffb6" group-title="Xarici",Travel+Adventure
+http://80.69.59.104:9000/live/Amin/1309/876.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Еврокино" tvg-logo="https://a3mw.aile.tv/storage/59a14a88d6a529f90195d3f2d55eea1f" group-title="Xarici",Еврокино
+http://80.69.59.104:9000/live/Amin/1309/877.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=".black" tvg-logo="https://a3mw.aile.tv/storage/db3e0553b16b75dd47b44f8916214c7f" group-title="Xarici",.black
+http://80.69.59.104:9000/live/Amin/1309/878.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Киносерия" tvg-logo="https://a3mw.aile.tv/storage/79267a6b5dcd2017868f4654ec6ec24a" group-title="Xarici",Киносерия
+http://80.69.59.104:9000/live/Amin/1309/879.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Кинокомедия" tvg-logo="https://a3mw.aile.tv/storage/42155bb8fd471d6685d33aec443d699d" group-title="Xarici",Кинокомедия
+http://80.69.59.104:9000/live/Amin/1309/880.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="СТС Kids" tvg-logo="https://a3mw.aile.tv/storage/2175bc2f70b43072f8f46509ca3fac8f" group-title="Xarici",СТС Kids
+http://80.69.59.104:9000/live/Amin/1309/881.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Киномикс" tvg-logo="https://a3mw.aile.tv/storage/d758411e3571f13b0aa901811b045bf7" group-title="Xarici",Киномикс
+http://80.69.59.104:9000/live/Amin/1309/882.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="МАМА" tvg-logo="https://a3mw.aile.tv/storage/a32c6d86fae647efac07785c519a9722" group-title="Xarici",МАМА
+http://80.69.59.104:9000/live/Amin/1309/883.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ТНТ Music" tvg-logo="https://a3mw.aile.tv/storage/04eafe8ed08245f97e86f40c1b66a5c7" group-title="Xarici",ТНТ Music
+http://80.69.59.104:9000/live/Amin/1309/942.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VİJU+ Русское Кино" tvg-logo="https://a3mw.aile.tv/storage/05ede3f8dc4a44e8db11695f1906ab95" group-title="Xarici",VİJU+ Русское Кино
+http://80.69.59.104:9000/live/Amin/1309/884.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Дом Кино" tvg-logo="https://a3mw.aile.tv/storage/350a118955940163526e16a6390e5565" group-title="Xarici",Дом Кино
+http://80.69.59.104:9000/live/Amin/1309/939.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Кинопремьера" tvg-logo="https://a3mw.aile.tv/storage/ef1c68d5ea12eeccca29d5ffaf648a80" group-title="Xarici",Кинопремьера
+http://80.69.59.104:9000/live/Amin/1309/944.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VIJU+ EXPLORE Eng" tvg-logo="https://a3mw.aile.tv/storage/2ad42f02c060a9fc30b551cf3d3bd79a" group-title="Xarici",VIJU+ EXPLORE Eng
+http://80.69.59.104:9000/live/Amin/1309/885.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Родное Кино" tvg-logo="https://a3mw.aile.tv/storage/4b07994fa06e7b369a0f1d3fb1b0c2d6" group-title="Xarici",Родное Кино
+http://80.69.59.104:9000/live/Amin/1309/940.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DMAX" tvg-logo="https://a3mw.aile.tv/storage/0c06a031b28820b5909268a2783e6406" group-title="Xarici",DMAX
+http://80.69.59.104:9000/live/Amin/1309/946.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BRIDGE TV DELUXE" tvg-logo="https://a3mw.aile.tv/storage/1fb43c6dff302f94ac6d6ba2d283e723" group-title="Xarici",BRIDGE TV DELUXE
+http://80.69.59.104:9000/live/Amin/1309/886.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ДОРАМА ТВ" tvg-logo="https://a3mw.aile.tv/storage/56497d306335d0f44190538c9f1e20aa" group-title="Xarici",ДОРАМА ТВ
+http://80.69.59.104:9000/live/Amin/1309/943.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Техно 24" tvg-logo="https://a3mw.aile.tv/storage/35d00691e5d557a7002a32f6e5fb57cf" group-title="Xarici",Техно 24
+http://80.69.59.104:9000/live/Amin/1309/948.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=".red" tvg-logo="https://a3mw.aile.tv/storage/8159e6ca4705f5edca0f09d8f7e6b382" group-title="Xarici",.red
+http://80.69.59.104:9000/live/Amin/1309/887.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Россия К" tvg-logo="https://a3mw.aile.tv/storage/9a19f130d3d90769e0ee1c71d78af62b" group-title="Xarici",Россия К
+http://80.69.59.104:9000/live/Amin/1309/888.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VİJU+ COMEDY" tvg-logo="https://a3mw.aile.tv/storage/58c80941e8daf7ffa57c17e379f541b1" group-title="Xarici",VİJU+ COMEDY
+http://80.69.59.104:9000/live/Amin/1309/889.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 2" tvg-logo="https://a3mw.aile.tv/storage/fdf15b88bfe6844852e0aae4b4140085" group-title="Xarici",Eurosport 2
+http://80.69.59.104:9000/live/Amin/1309/890.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Setanta Sports 1 HD" tvg-logo="https://a3mw.aile.tv/storage/39cb6a21cd9c7bfc121cf3b090e1bcfe" group-title="Xarici",Setanta Sports 1 HD
+http://80.69.59.104:9000/live/Amin/1309/894.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Setanta Sports 2 HD" tvg-logo="https://a3mw.aile.tv/storage/79da129101b64c658da80f873b0b71f5" group-title="Xarici",Setanta Sports 2 HD
+http://80.69.59.104:9000/live/Amin/1309/903.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel HD" tvg-logo="https://a3mw.aile.tv/storage/70d993475dfedd6380d588507854ac98" group-title="Xarici",Discovery Channel HD
+http://80.69.59.104:9000/live/Amin/1309/896.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bridge TV" tvg-logo="https://a3mw.aile.tv/storage/536392887dbe031eedd7430bdf2701ee" group-title="Xarici",Bridge TV
+http://80.69.59.104:9000/live/Amin/1309/897.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="English Club TV" tvg-logo="https://a3mw.aile.tv/storage/a1fa7e187e63a995adef9f36e21a113d" group-title="Xarici",English Club TV
+http://80.69.59.104:9000/live/Amin/1309/898.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA" tvg-logo="https://a3mw.aile.tv/storage/cee2aa1f7cca5372d4b1b2d08932a284" group-title="Xarici",CINEMA
+http://80.69.59.104:9000/live/Amin/1309/899.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HD Life" tvg-logo="https://a3mw.aile.tv/storage/679eb5d94e14b4b7bcdbcac7b93ca50c" group-title="Xarici",HD Life
+http://80.69.59.104:9000/live/Amin/1309/900.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic HD" tvg-logo="https://a3mw.aile.tv/storage/fe78d9a31ff42304f498d025327eec0d" group-title="Xarici",National Geographic HD
+http://80.69.59.104:9000/live/Amin/1309/902.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Investigation Discovery" tvg-logo="https://a3mw.aile.tv/storage/bb224a22cf82b886e1f87b7e6005b68e" group-title="Xarici",Investigation Discovery
+http://80.69.59.104:9000/live/Amin/1309/895.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Наука 2.0" tvg-logo="https://a3mw.aile.tv/storage/ab1f161c8be8ed8d17312305f130ed25" group-title="Xarici",Наука 2.0
+http://80.69.59.104:9000/live/Amin/1309/906.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Точка Отрыва" tvg-logo="https://a3mw.aile.tv/storage/3df45aeee3950cea85fd2414c84669f7" group-title="Xarici",Точка Отрыва
+http://80.69.59.104:9000/live/Amin/1309/907.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Бокс ТВ" tvg-logo="https://a3mw.aile.tv/storage/b3227e166573eee69f817286d9b68ac7" group-title="Xarici",Бокс ТВ
+http://80.69.59.104:9000/live/Amin/1309/908.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ЖАРА" tvg-logo="https://a3mw.aile.tv/storage/749a1bd53e94cfd8b0c026434cc7399c" group-title="Xarici",ЖАРА
+http://80.69.59.104:9000/live/Amin/1309/909.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Первый HD" tvg-logo="https://a3mw.aile.tv/storage/b828db1ae3846aaf28aef0fd27eeddec" group-title="Xarici",Первый HD
+http://80.69.59.104:9000/live/Amin/1309/911.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Наше Новое Кино" tvg-logo="https://a3mw.aile.tv/storage/64fd4defbb184e2918dab84bed03a989" group-title="Xarici",Наше Новое Кино
+http://80.69.59.104:9000/live/Amin/1309/912.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="МИР БАСКЕТБОЛА" tvg-logo="https://a3mw.aile.tv/storage/cf235e9f98c24546db90557beff42e77" group-title="Xarici",МИР БАСКЕТБОЛА
+http://80.69.59.104:9000/live/Amin/1309/913.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VIJU+ NATURE" tvg-logo="https://a3mw.aile.tv/storage/27f3c0e883daed5f544403f314fdb154" group-title="Xarici",VIJU+ NATURE
+http://80.69.59.104:9000/live/Amin/1309/914.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Музыка Первого" tvg-logo="https://a3mw.aile.tv/storage/e44902852508a0214c9d39ecedf1c187" group-title="Xarici",Музыка Первого
+http://80.69.59.104:9000/live/Amin/1309/916.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ностальгия" tvg-logo="https://a3mw.aile.tv/storage/187d6e14a219925194d07baec95c9eb7" group-title="Xarici",Ностальгия
+http://80.69.59.104:9000/live/Amin/1309/917.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Da Vinci Learning" tvg-logo="https://a3mw.aile.tv/storage/1c66aac0f09666885469cf01f98c984d" group-title="Xarici",Da Vinci Learning
+http://80.69.59.104:9000/live/Amin/1309/918.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VIJU+ EXPLORE" tvg-logo="https://a3mw.aile.tv/storage/2ad42f02c060a9fc30b551cf3d3bd79a" group-title="Xarici",VIJU+ EXPLORE
+http://80.69.59.104:9000/live/Amin/1309/919.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Киносвидание" tvg-logo="https://a3mw.aile.tv/storage/b94130e006c8e712d871baed386b55ae" group-title="Xarici",Киносвидание
+http://80.69.59.104:9000/live/Amin/1309/921.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Индийское Кино" tvg-logo="https://a3mw.aile.tv/storage/41e01efb9709b9aa06e65d977b9f43ce" group-title="Xarici",Индийское Кино
+http://80.69.59.104:9000/live/Amin/1309/922.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ТОНУС" tvg-logo="https://a3mw.aile.tv/storage/e877f8e6bdf92adb0312409b1387605f" group-title="Xarici",ТОНУС
+http://80.69.59.104:9000/live/Amin/1309/923.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VİJU TV 1000" tvg-logo="https://a3mw.aile.tv/storage/fcf5ff2d97e3a6d4811815d65dace108" group-title="Xarici",VİJU TV 1000
+http://80.69.59.104:9000/live/Amin/1309/926.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="https://a3mw.aile.tv/storage/b475ac796773964058a570d5a516478a" group-title="Xarici",Animal Planet
+http://80.69.59.104:9000/live/Amin/1309/927.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Кинохит" tvg-logo="https://a3mw.aile.tv/storage/74d4d5bd3be557487d7137498f40513c" group-title="Xarici",Кинохит
+http://80.69.59.104:9000/live/Amin/1309/930.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Удар" tvg-logo="https://a3mw.aile.tv/storage/d23ff369f6b0bfae02b973ac57cb4933" group-title="Xarici",Удар
+http://80.69.59.104:9000/live/Amin/1309/931.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="САПФИР" tvg-logo="https://a3mw.aile.tv/storage/7de026adf8e7a2813b6f7e3ac26a7a9e" group-title="Xarici",САПФИР
+http://80.69.59.104:9000/live/Amin/1309/932.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ЗДОРОВОЕ ТВ" tvg-logo="https://a3mw.aile.tv/storage/2feed4e62111fd17f3b048fcb2a9baa0" group-title="Xarici",ЗДОРОВОЕ ТВ
+http://80.69.59.104:9000/live/Amin/1309/935.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KINOLIVING" tvg-logo="https://a3mw.aile.tv/storage/897c5801d61df13a4bdc55f903d84831" group-title="Xarici",KINOLIVING
+http://80.69.59.104:9000/live/Amin/1309/936.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VİJU+ PREMIERE" tvg-logo="https://a3mw.aile.tv/storage/c65e418ddbf6faee4a375467628affdc" group-title="Xarici",VİJU+ PREMIERE
+http://80.69.59.104:9000/live/Amin/1309/937.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A Media Premium" tvg-logo="https://a3mw.aile.tv/storage/bf43484c21d06685fedd6321d96b4c37" group-title="Xarici",A Media Premium
+http://80.69.59.104:9000/live/Amin/1309/938.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 1" tvg-logo="" group-title="Elave",beIN Sports 1
+http://80.69.59.104:9000/live/Amin/1309/1365.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 2" tvg-logo="" group-title="Elave",beIN Sports 2
+http://80.69.59.104:9000/live/Amin/1309/1360.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 3" tvg-logo="" group-title="Elave",beIN Sports 3
+http://80.69.59.104:9000/live/Amin/1309/1361.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 4" tvg-logo="" group-title="Elave",beIN Sports 4
+http://80.69.59.104:9000/live/Amin/1309/1362.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 5" tvg-logo="" group-title="Elave",beIN Sports 5
+http://80.69.59.104:9000/live/Amin/1309/1363.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports MAX 2" tvg-logo="" group-title="Elave",beIN Sports MAX 2
+http://80.69.59.104:9000/live/Amin/1309/1364.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A Spor HD" tvg-logo="" group-title="Turkiye",A Spor HD
+http://80.69.59.104:9000/live/Amin/1309/1353.m3u8
